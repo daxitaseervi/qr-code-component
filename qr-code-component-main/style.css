@@ -1,0 +1,49 @@
+* {
+  margin: 0px;
+}
+
+.attribution { font-size: 14px; text-align: center; position: fixed; bottom: 0; margin-bottom: 20px; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+  height: 100vh;  /* Ensures the body takes up the full viewport height */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: hsl(212, 45%, 89%);
+  font-family: Outfit, Arial;
+}
+
+.container {
+  width: 260px;
+  padding: 20px 20px 40px 20px;
+  border-radius: 20px;
+  background-color: hsl(0, 0%, 100%);
+}
+
+.qr-code {
+  border-radius: 10px;
+}
+
+.qr-code, .text-container {
+  width: 100%;
+}
+
+.text-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.title {
+  color: hsl(218, 44%, 22%);
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 28px;
+  margin-bottom: 20px;
+}
+
+.description {
+  color: hsl(216, 15%, 48%);
+  font-size: 15px;
+}
