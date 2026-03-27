@@ -16,6 +16,6 @@ Centering the card was initially confusing, and I overlooked using Flexbox on th
 ![Project Screenshot](/qr-code-component-main/images/project-screenshot.png)
 
 ## Links
-- Twitter/X: https://x.com/kazzyyy__
+- Twitter/X: [https://x.com/kazzyyy__](https://x.com/kazzyyy__)
 - Codepen: https://codepen.io/Daxita-Seervi
 - Frontend Mentor: https://www.frontendmentor.io/profile/daxitaseervi
