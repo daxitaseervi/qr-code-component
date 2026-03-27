@@ -13,7 +13,8 @@ Centering the card was initially confusing, and I overlooked using Flexbox on th
 - Importance of revisiting fundamentals instead of overcomplicating solutions
 
 ## Project
-![Project Screenshot](/qr-code-component-main/images/project-screenshot.png)
+- Live Site URL:
+![Project Screenshot](/images/project-screenshot.png)
 
 ## Links
 - Twitter/X: [https://x.com/kazzyyy__](https://x.com/kazzyyy__)
