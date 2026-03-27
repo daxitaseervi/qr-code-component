@@ -13,7 +13,7 @@ Centering the card was initially confusing, and I overlooked using Flexbox on th
 - Importance of revisiting fundamentals instead of overcomplicating solutions
 
 ## Project
-- Live Site URL:
+- Live Site URL: https://daxitaseervi.github.io/qr-code-component/
 ![Project Screenshot](/images/project-screenshot.png)
 
 ## Links
